@@ -1,5 +1,5 @@
 # Top-Album-Scraper
-#Introduction
+## Introduction
 This project aims to create a web scraper to gather data from 20 pages of a popular music ranking website, and perform data analysis, cleaning and exploration. The goal of the project is to better understand the music trends and popularity of different songs and artists in the industry.
 
 ## Tools and Technologies Used
