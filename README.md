@@ -14,6 +14,10 @@ The data was collected using a web scraper built using Python's BeautifulSoup li
 ## Data Analysis
 The collected data was analyzed in Jupyter Notebook. The analysis included cleaning the data, checking for missing values, and exploring the trends and patterns in the data. Various data visualization techniques were used to better understand the patterns and trends in the data.
 
+![genres_chart](https://user-images.githubusercontent.com/113634043/215691457-a8d1dc0a-0537-4fa3-ad4c-15a755238996.png)
+
+![frequency](https://user-images.githubusercontent.com/113634043/215691476-85433a0d-699f-4b7d-8854-8d8b5019e9b1.png)
+
 ## Conclusion
 This project was a successful attempt at creating a web scraper to gather data from a popular music ranking website and analyzing the data to gain insights into the music trends and popularity of different songs and artists. The project provides a comprehensive overview of the music industry and can be used as a reference for future research and analysis.
 
